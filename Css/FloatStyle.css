@@ -1,0 +1,29 @@
+.text{
+    width: 200px;
+    height: 180px;
+    background-color: aliceblue;
+    display: inline-block;
+    margin: 10px;
+    overflow: hidden;
+    
+}
+.header{
+    width: 100%;
+    height: 800px;
+    background-color: rgb(255,255,241);
+    border: 5px solid black;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+  
+}
+#cin{
+overflow: auto;
+overflow-x: hidden;
+width: 100%;
+height: 10%;
+}
+
+.header hr{
+border: 2px solid black;
+}

@@ -1,0 +1,36 @@
+h1{
+    text-decoration:underline ;
+}
+hr{
+    border: 1px solid gray;
+}
+h2 a{
+    color:rgb(255,180,93);
+}
+h3 a{
+    color:red;
+    background-color: yellow;
+}
+li a{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+ul li:first-child{
+font-size: 20px;
+font-weight: bold;
+
+}
+
+li > ul >li> ul{
+    list-style: none;
+    color: blue;
+}
+li > ul >li{
+    color: blue;
+
+}
+span a{
+    font-size: 20px;
+    font-weight: bold;
+}
